@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace CSharpATM
 {
@@ -98,6 +99,8 @@ namespace CSharpATM
                         break;
                 }
             }
+            Console.WriteLine("Thank you for banking with us, dear customer");
+            Thread.Sleep(1000);
         }
     }
 }
