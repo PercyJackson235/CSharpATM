@@ -84,22 +84,27 @@ namespace CSharpATM
                 {
                     case "add":
                         Deposit();
+                        Thread.Sleep(750);
                         break;
                     case "sub":
                         Withdraw();
+                        Thread.Sleep(750);
                         break;
                     case "check":
                         CheckBalance();
+                        Thread.Sleep(750);
                         break;
                     case "quit":
                         running = false;
+                        Thread.Sleep(750);
                         break;
                     default:
                         Console.WriteLine("Not a Valid Menu Choice.");
+                        Thread.Sleep(750);
                         break;
                 }
             }
-            Console.WriteLine("Thank you for banking with us, dear customer");
+            Console.WriteLine("Thank you for banking with us, dear customer!");
             Thread.Sleep(1000);
         }
     }

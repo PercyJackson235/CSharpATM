@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpATM", "CSharpATM.csproj", "{C14C3901-3BE4-4E6E-B0B5-8FBDBC524FC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpATM", "CSharpATM.csproj", "{3CA4DC81-C660-402C-ABF5-FAE7E46F80DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C14C3901-3BE4-4E6E-B0B5-8FBDBC524FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C14C3901-3BE4-4E6E-B0B5-8FBDBC524FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C14C3901-3BE4-4E6E-B0B5-8FBDBC524FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C14C3901-3BE4-4E6E-B0B5-8FBDBC524FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA4DC81-C660-402C-ABF5-FAE7E46F80DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA4DC81-C660-402C-ABF5-FAE7E46F80DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA4DC81-C660-402C-ABF5-FAE7E46F80DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA4DC81-C660-402C-ABF5-FAE7E46F80DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C2375296-D44E-4389-963F-55B998EAFA0D}
+		SolutionGuid = {0604EE32-0531-4B9D-8762-E8E70AD2A087}
 	EndGlobalSection
 EndGlobal
